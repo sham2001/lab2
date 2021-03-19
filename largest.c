@@ -21,5 +21,8 @@ int main()
 
     printf("\n\n\nsum of entered numbers  = %d", sum);
     printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
     return 0;
 }
